@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fmio-qr-code-component/static/css/main.e8427aaa.css",
+    "main.js": "/fmio-qr-code-component/static/js/main.4bb6858b.js",
+    "index.html": "/fmio-qr-code-component/index.html",
+    "main.e8427aaa.css.map": "/fmio-qr-code-component/static/css/main.e8427aaa.css.map",
+    "main.4bb6858b.js.map": "/fmio-qr-code-component/static/js/main.4bb6858b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8427aaa.css",
+    "static/js/main.4bb6858b.js"
+  ]
+}
